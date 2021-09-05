@@ -1,0 +1,15 @@
+{
+  "name": "discord-guild-attack",
+  "version": "1.0.0",
+  "description": "Made by Williams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js-selfbot": "^12.0.2"
+  }
+}
